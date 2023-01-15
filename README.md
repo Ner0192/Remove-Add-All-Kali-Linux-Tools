@@ -1,5 +1,5 @@
 # Remove or Add All Kali Linux Tools
-The scripts removes/uninstalls all the hacking tools or any tool installed in Kali Linux
+The scripts removes/uninstalls all the hacking tools or any tool installed in Kali Linux\n
 You can reinstall all the tools as well in case
 
 # How to Use This Script
